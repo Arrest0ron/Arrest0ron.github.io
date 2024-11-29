@@ -1,3 +1,9 @@
 title: My Awesome Site
 description: This is my awesome site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
